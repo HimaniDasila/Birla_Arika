@@ -1139,7 +1139,7 @@ header.scrolled .logo-overlay {
 
 #project-intro .intro-panel p {
     font-size: 20px;
-    color: #959595;
+    color: #353333;
     line-height: 30px;
     padding: 25px 0 0 0;
 }
@@ -1171,17 +1171,6 @@ header.scrolled .logo-overlay {
     color: var(--color-brown);
     line-height: 20px;
     padding: 0;
-}
-
-#project-intro .note {
-    position: absolute;
-    right: 0;
-    bottom: 0;
-    width: auto;
-    font-size: 12px;
-    color: var(--color-white);
-    padding: 5px 10px;
-    background: #00000045;
 }
 
 #luxurious {
